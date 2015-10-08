@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<default>
+	<UrlAmount>200</UrlAmount>
+	<DispatchedCrawlers>
+		<DispatchedCrawler>San Jose</DispatchedCrawler>
+	</DispatchedCrawlers>
+	<DispatchedGroups>
+	</DispatchedGroups>
+	<FtpHubWaitingMinute>5</FtpHubWaitingMinute>
+	<RecanIntervalDay>7</RescanIntervalDay>
+	<TaskTriggerOutputPath>/var/www/nebula/app/webroot/task_trigger</TaskTriggerOutputPath>	
+	<UrlGeneratorOutputPath>/var/www/nebula/app/webroot/url_generator</UrlGeneratorOutputPath>
+	<FtpHubDownloadFilePath>/var/www/nebula/app/webroot/download_file</FtpHubDownloadFilePath>
+	<ScanTriggerOutputPath>/var/www/nebula/app/webroot/scan_trigger</ScanTriggerOutputPath>
+	<JudgeTriggerOutputPath>/var/www/nebula/app/webroot/judge_trigger</JudgeTriggerOutputPath>
+	<JudgerResultOutputPath>/var/www/nebula/app/webroot/judge_results</JudgerResultOutputPath>
+
+</default>
